@@ -3,7 +3,7 @@
 
 ```shell script
 git clone https://github.com/tuancat2k5/0
-cd 0-main
+cd 0
 sh install.sh
 ```
 **Đối với gg shell
