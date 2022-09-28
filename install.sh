@@ -1,9 +1,9 @@
 echo "updating..."
-apt -y update
+sudo apt -y update
 echo "done."
 
 echo "installing... ['screen', 'nodejs']"
-apt -y install screen nodejs
+sudo apt -y install screen nodejs
 echo "done."
 
 echo "installing... ['randomstring', 'request']"
