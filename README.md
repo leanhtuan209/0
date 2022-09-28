@@ -1,4 +1,4 @@
-#cách tải TUBI-DDoS V3 :v leak suộc của ép tun (bản termux)
+#cách tải TUBI-DDoS V3 :v leak suộc của ép tun (bản termux) \n
 git clone https://github.com/tuancat2k5/0
 cd 0-main
 sh install.sh
