@@ -1,4 +1,5 @@
-<h1 align="center">Cách tải TUBI-DDoS V3 :v leak suộc của ép tun (bản termux)</h1>
+<h1 align="center">Cách tải TUBI-DDoS V3 :v leak suộc của ép tun (bản termux)
+Lấy xài or share xin hãy cre thằng gốc :v</h1>
 **Termux**
 
 ```shell script
